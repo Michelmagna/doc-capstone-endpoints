@@ -9,7 +9,7 @@
     "name" : "Validate",
     "description" : "Endpoints to validate faces and sign up"
   }, {
-    "name" : "developers",
+    "name" : "Session",
     "description" : "Operations available to regular developers"
   } ],
   "paths" : {
